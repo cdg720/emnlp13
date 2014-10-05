@@ -1,6 +1,6 @@
 Author: Do Kook Choe
 
-This code is used for experiments described in "Naive Bayes Word Sense Induction."  
+This code is used for experiments described in ["Naive Bayes Word Sense Induction."](http://www.aclweb.org/anthology/D13-1148)     
 You can download the SemEval 2010 Word Sense Induction task dataset at: http://www.cs.york.ac.uk/semeval2010_WSI/datasets.html.  
 
 USEAGE:   
