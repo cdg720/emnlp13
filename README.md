@@ -1,7 +1,7 @@
 Author: Do Kook Choe
 
 This code is used for experiments described in "Naive Bayes Word Sense Induction."  
-You can download the SemEval 2010 Word Sense Induction task dataset from: http://www.cs.york.ac.uk/semeval2010_WSI/datasets.html.  
+You can download the SemEval 2010 Word Sense Induction task dataset at: http://www.cs.york.ac.uk/semeval2010_WSI/datasets.html.  
 
 USEAGE:   
 1. cd src/  
