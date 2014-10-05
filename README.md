@@ -2,10 +2,10 @@ Author: Do Kook Choe
 
 This code is used for experiments described in "Naive Bayes Word Sense Induction."
 
-USEAGE: 
-* cd src/ 
-* ./compile.h 
-* ./run.h (with appropriate arguments) 
+USEAGE:   
+1. cd src/  
+2. ./compile.h  
+3. ./run.h (with appropriate arguments)  
 
 DESCRIPTIONS OF FILES  
 in src:  
