@@ -10,7 +10,7 @@ USEAGE:
 DESCRIPTIONS OF FILES  
 in src:  
 1. *.java are source files  
-2. compile.h compiles source files
+2. compile.h compiles source files  
 3. run.h executes Experiment.class   
 
 in data:  
@@ -21,4 +21,3 @@ in data:
 jars:  
 1. dom4j.jar is to parse XML input. It is downloaded at http://dom4j.sourceforge.net/.  
 2. stanford-corenlp-2012-07-09.jar is to tokenize sentences and lemmatize words. It is downloaded at http://nlp.stanford.edu/.  
-
