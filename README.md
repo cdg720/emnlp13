@@ -3,11 +3,13 @@ Author: Do Kook Choe
 This code is used for experiments described in "Naive Bayes Word Sense Induction."
 
 USEAGE:
+
 cd src/
 ./compile.h 
 ./run.h (with appropriate arguments)
 
 DESCRIPTIONS OF FILES:
+
 src:
 *.java are source files
 compile.h compiles source files, and run.h runs the compiled Experiment.
