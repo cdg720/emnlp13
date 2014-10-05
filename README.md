@@ -9,9 +9,9 @@ USEAGE:
 
 DESCRIPTIONS OF FILES  
 in src:  
-1. *.java are source files  
-2. compile.h compiles source files  
-3. run.h executes Experiment.class   
+1. *.java are source files.  
+2. compile.h compiles source files.  
+3. run.h executes Experiment.class.   
 
 in data:  
 1. smart_common_words.txt contains a list of stopwords from SMART IR engine.  
